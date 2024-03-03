@@ -2,12 +2,11 @@
 
 # Setup Environment
 ```
-python3 -m venv main-ds
-main-ds\Scripts\activate
+python -m venv stenv
 pip install numpy pandas matplotlib seaborn jupyter streamlit
 ```
 
 # Run Streamlit App
 ```
-streamlit run Dashboard.py
+streamlit run dashboard.py
 ```
