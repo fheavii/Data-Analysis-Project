@@ -2,12 +2,12 @@
 
 # Setup Environment
 ```
-conda create --name main-ds python=3.9
-conda activate main-ds
+python3 -m venv main-ds
+main-ds\Scripts\activate
 pip install numpy pandas matplotlib seaborn jupyter streamlit
 ```
 
 # Run Streamlit App
 ```
-streamlit run dashboard.py
+streamlit run Dashboard.py
 ```
