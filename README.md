@@ -3,7 +3,7 @@
 # Setup Environment
 ```
 python -m venv stenv
-pip install numpy pandas matplotlib seaborn jupyter streamlit
+pip install numpy pandas matplotlib seaborn streamlit
 ```
 
 # Run Streamlit App
